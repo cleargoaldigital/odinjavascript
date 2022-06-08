@@ -1,0 +1,17 @@
+* ::before, ::after{
+   margin: 0;
+   padding: 0;
+}
+
+html{
+   height: 100%;
+   width: 100%;
+   font-size: 62.5%;
+   color: rgb(151, 105, 45);
+   /* background: #bebeb3; */
+}
+
+h1{
+   text-align: center;
+   text-shadow: 2px 3px 4px olive;
+}
