@@ -15,3 +15,13 @@ h1{
    text-align: center;
    text-shadow: 2px 3px 4px olive;
 }
+
+.div_wrapper{
+   display: flex;
+}
+
+.div_wrapper div{
+   height: 50px;
+   width: 50px;
+   background: #ed2765;
+}
