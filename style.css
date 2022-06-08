@@ -24,4 +24,5 @@ h1{
    height: 50px;
    width: 50px;
    background: #ed2765;
+   border: 2px solid white;
 }
